@@ -1,10 +1,11 @@
 /*
     SUBJECT: CS028 - Data Structures
-    PROGRAMMER: Carl Jimroe M. Paño
-    TEACHER: Neila Paglinawan-Muñez
+    PROGRAMMER: Carl Jimroe M. PaÃ±o
+    TEACHER: Neila Paglinawan-MuÃ±ez
 
     DATA STRUCTURES FINAL PROJECT:
     DIGITAL LIBRARY BOOK LENDING SYSTEM
+
 
     PROGRAM DESCRIPTION: This project serves as the final requirement in completion of the CS-028 Data Structures subject.
                          The DIGITAL LIBRARY BOOK LENDING SYSTEM is a console-based application program that can be used to
