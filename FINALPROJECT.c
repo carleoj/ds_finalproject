@@ -6,7 +6,6 @@
     DATA STRUCTURES FINAL PROJECT:
     DIGITAL LIBRARY BOOK LENDING SYSTEM
 
-
     PROGRAM DESCRIPTION: This project serves as the final requirement in completion of the CS-028 Data Structures subject.
                          The DIGITAL LIBRARY BOOK LENDING SYSTEM is a console-based application program that can be used to
                          simplify the process of traditional book borrowing in the library. It integrates a file-based database
