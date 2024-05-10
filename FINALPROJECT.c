@@ -12,6 +12,7 @@
                          using SQLite for faster and more secure data storage. It implements the basic Queue data strcuture
                          to make the inserting and removing of elements or records in order just like on a line.
 */
+
 //HEADERS USED:
 #include <stdio.h>      //standard library header for C
 #include <stdlib.h>     //standard library header for dynamic memory allocations
