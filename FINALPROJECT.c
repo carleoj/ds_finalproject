@@ -12,9 +12,7 @@
                          using SQLite for faster and more secure data storage. It implements the basic Queue data strcuture
                          to make the inserting and removing of elements or records in order just like on a line.
 */
-
 //HEADERS USED:
-
 #include <stdio.h>      //standard library header for C
 #include <stdlib.h>     //standard library header for dynamic memory allocations
 #include <stdbool.h>    //standard library for boolean
@@ -797,7 +795,7 @@ void delay(int seconds) { //function for visual aids enhancements in the program
 void printHelp(){ //prints the user manual to the console
     printf("\nThis program serves as a tool to make book borrowing faster\n\nType 1 to enter the borrower's information\n"\
            "Type 2 to process confirmation of the book to be borrowed\nType 3 to print the list of unprocessed book requests\n"\
-           "Type 4 to print the saved record from the database\nType 5 to show the database\nType 6 to delete all the rows on the database table\n\n");
+           "Type 4 to print the saved record from the database\nType 5 to show the database\nType 6 to perform query operations in the database\n\n");
 }
 
 void printAtExit(){
