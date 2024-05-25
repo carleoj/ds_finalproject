@@ -18,8 +18,8 @@
 #include <stdbool.h>    //standard library for boolean
 #include <string.h>     //string header for string manipulation functions
 #include <ctype.h>      //for isspace function
-#include <time.h>       //time header to get the current time from the system
-#include <unistd.h>     //for sleep function
+#include <time.h>       //time header to get the current time from the system 
+#include <unistd.h>     //for sleep function  
 #include <sqlite3.h>    //SQLite database header imports necessary functions to communicate with the database
 
 const int SECRET_KEY = 1234;    //modifiable password for truncating table, must only be known by the admin / librarian
