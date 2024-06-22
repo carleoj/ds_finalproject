@@ -1,4 +1,4 @@
-Hi, this is the comprehensive guide on how to configure/prepare your computer on using the DIGITAL LIBRARY BOOK LENDING SYSTEM.
+Hi, this is the guide on how to configure/prepare your computer on using the DIGITAL LIBRARY BOOK LENDING SYSTEM.
 
 First, make sure that you have already installed SQLite on your system.
 If you haven't yet, refer to these tutorial videos on how to do so:
