@@ -28,6 +28,9 @@ DB Browser, which is a visual, open source tool that I am using to design and ed
 
 Visit this link for more info -> https://sqlitebrowser.org/about/
 
+
+If you have any concern, feel free to send me an email (jimroep@gmail.com).
+
 GitHub Project Repository: https://github.com/carleoj/ds_finalproject.git
 
 
